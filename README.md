@@ -147,9 +147,11 @@ impl LukaGray {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukagray-dev&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=9b72ff&icon_color=7c3aed&text_color=c9b8ff&count_private=true&include_all_commits=true&ring_color=7c3aed" alt="Luka's GitHub Stats" />
+<!-- Stats & Languages: generated daily by GitHub Actions → .github/workflows/stats.yml -->
+<!-- Run the workflow once manually to create assets/stats.svg and assets/langs.svg -->
+<img height="180em" src="assets/stats.svg" alt="Luka's GitHub Stats" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukagray-dev&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=9b72ff&text_color=c9b8ff&langs_count=6" alt="Top Languages" />
+<img height="180em" src="assets/langs.svg" alt="Top Languages" />
 
 </div>
 
@@ -161,7 +163,7 @@ impl LukaGray {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lukagray-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lukagray-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
