@@ -148,10 +148,8 @@ impl LukaGray {
 <div align="center">
 
 <!-- Stats & Languages: generated daily by GitHub Actions → .github/workflows/stats.yml -->
-<!-- Run the workflow once manually to create assets/stats.svg and assets/langs.svg -->
-<img height="180em" src="assets/stats.svg" alt="Luka's GitHub Stats" />
-&nbsp;
-<img height="180em" src="assets/langs.svg" alt="Top Languages" />
+<img width="100%" src="assets/stats.svg" alt="Luka's GitHub Stats" />
+<img width="100%" src="assets/langs.svg" alt="Top Languages" />
 
 </div>
 
